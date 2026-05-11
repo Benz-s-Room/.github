@@ -11,9 +11,6 @@ type: Feature
 ---
 name: ✨ ขอฟีเจอร์ใหม่ (Feature Request)
 about: เสนอแนวคิดหรือฟีเจอร์ที่อยากให้เพิ่มในระบบ
-title: "[FEATURE] "
-labels: enhancement
-assignees: ''
 ---
 
 ## 💡 ปัญหาที่ต้องการแก้ไข (Problem Statement)

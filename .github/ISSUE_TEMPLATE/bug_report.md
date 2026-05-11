@@ -11,9 +11,6 @@ type: Bug
 ---
 name: 🐛 รายงานข้อผิดพลาด (Bug Report)
 about: รายงานปัญหาที่พบเพื่อช่วยให้เราปรับปรุงระบบ
-title: "[BUG] "
-labels: bug
-assignees: ''
 ---
 
 ## 📋 สรุปปัญหา
